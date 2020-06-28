@@ -55,3 +55,9 @@ body {
   z-index: -1;
   border-radius: 50%;
 }
+
+.pointer-container {
+  position: absolute;
+  top: -40px;
+  left: 140px;
+}

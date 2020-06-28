@@ -20,3 +20,5 @@ function breatheAnimation() {
     }, holdTime)
   }, breatheTime)
 }
+
+setInterval(breatheAnimation, totalTime)

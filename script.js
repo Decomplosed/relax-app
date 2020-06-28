@@ -9,5 +9,7 @@ function breatheAnimation() {
   text.innerHTML = 'Breathe In!'
   container.className = 'container grow'
 
-  setTimeout(() => {}, breatheTime)
+  setTimeout(() => {
+    text.innerHTML = 'Hold'
+  }, breatheTime)
 }

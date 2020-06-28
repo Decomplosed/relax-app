@@ -11,5 +11,9 @@ function breatheAnimation() {
 
   setTimeout(() => {
     text.innerHTML = 'Hold'
+
+    setTimeout(() => {
+      text.innerHTML = 'Breathe Out!'
+    }, holdTime)
   }, breatheTime)
 }

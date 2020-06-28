@@ -38,7 +38,9 @@ body {
   );
   height: 320px;
   width: 320px;
+  position: absolute;
   top: -10px;
   left: -10px;
   z-index: -2;
+  border-radius: 50%;
 }

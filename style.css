@@ -40,4 +40,5 @@ body {
   width: 320px;
   top: -10px;
   left: -10px;
+  z-index: -2;
 }

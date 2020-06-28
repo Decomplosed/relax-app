@@ -20,4 +20,9 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
+  height: 300px;
+  width: 300px;
+  margin: auto;
+  position: relative;
+  transform: scale(1);
 }

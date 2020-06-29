@@ -31,6 +31,10 @@ body {
   animation: grow 3s linear forwards;
 }
 
+.container.shrink {
+  animation: shrink 3s linear forwards;
+}
+
 .gradient-circle {
   background: conic-gradient(
     #55b7a4 0%,

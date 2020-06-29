@@ -63,6 +63,7 @@ body {
   width: 20px;
   height: 190px;
   animation: rotate 7.5s linear forwards infinite;
+  transform-origin: bottom center;
 }
 
 .pointer {

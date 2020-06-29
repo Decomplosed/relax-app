@@ -27,6 +27,10 @@ body {
   transform: scale(1);
 }
 
+.container.grow {
+  animation: grow 3s linear forwards;
+}
+
 .gradient-circle {
   background: conic-gradient(
     #55b7a4 0%,
